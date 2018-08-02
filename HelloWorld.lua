@@ -1,1 +1,3 @@
-/run print((select(4, GetBuildInfo())));
+function HelloWorld() 
+    print("Hello, World!"); 
+end
