@@ -6,6 +6,7 @@ Run this `/run print((select(4, GetBuildInfo())));` in world of warcraft chat to
 
 # Generic Resources
 - [Lua distribution across platforms](http://luadist.org/)
+- [Lua reference 5.1](http://www.lua.org/manual/5.1/)
 - [Events API](http://wowwiki.wikia.com/wiki/Events_(API))
 > Something happening in the game
 - [UI Events API](http://wowwiki.wikia.com/wiki/Widget_handlers)
