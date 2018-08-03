@@ -13,6 +13,7 @@ Run this `/run print((select(4, GetBuildInfo())));` in world of warcraft chat to
 > Events from an interaction on the user interface
 
 # Tutorials
+- [wow-head updated 2018 tutorial](http://fr.wowhead.com/guide=1949/wow-addon-writing-guide-part-one-how-to-make-your-first-addon)
 - [MMO Champion tuto](https://www.mmo-champion.com/threads/817817-Creating-Your-Own-WoW-Addon)
 - [Wow wiki addon programming](http://wowwiki.wikia.com/wiki/AddOn_programming_tutorial/Introduction)
 - [www.dev-hq.net](http://www.dev-hq.net/posts/2--create-world-of-warcraft-addon)
