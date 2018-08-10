@@ -5,6 +5,7 @@ Work in progress
 Run this `/run print((select(4, GetBuildInfo())));` in world of warcraft chat to see the TOC version.
 
 # Generic Resources
+- [learn x in y minutes - lua](https://learnxinyminutes.com/docs/lua/)
 - [Lua distribution across platforms](http://luadist.org/)
 - [Lua reference 5.1](http://www.lua.org/manual/5.1/)
 - [wowwiki](http://wowwiki.wikia.com/wiki/Portal:Interface_customization)
