@@ -1,0 +1,13 @@
+<!-- Frame -->
+<Frame name="MyAddon_Frame">
+    <Anchors>
+        <Anchor point="CENTER"/>
+    </Anchors>
+    <Frames>
+        <Button name="MyAddon_Button">
+            <Anchors>
+                <Anchor point="CENTER"/>
+            </Anchors>
+        </Button>
+    </Frames>
+</Frame>

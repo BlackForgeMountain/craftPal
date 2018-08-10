@@ -15,6 +15,7 @@ Run this `/run print((select(4, GetBuildInfo())));` in world of warcraft chat to
 - [UI Events API](http://wowwiki.wikia.com/wiki/Widget_handlers)
 > Events from an interaction on the user interface
 - [Resource WOW Programming](http://wowprogramming.com/snippets.html)
+- [Blizzard's UI AddOn Kit](http://wowwiki.wikia.com/wiki/Interface_AddOn_Kit)
 
 # Tutorials
 - [wow-head updated 2018 tutorial](http://fr.wowhead.com/guide=1949/wow-addon-writing-guide-part-one-how-to-make-your-first-addon)

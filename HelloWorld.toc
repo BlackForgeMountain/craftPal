@@ -4,6 +4,6 @@
 ## Author : Ugo Arzur
 ## Version : 0.0.1
 
-HelloWorld.xml
+templates/HelloWorld.xml
 main.lua
 lvup.lua

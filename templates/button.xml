@@ -1,0 +1,6 @@
+<!-- Button -->
+<Button name="MyAddon_Button">
+  <Anchors>
+    <Anchor point="CENTER"/>
+  </Anchors>
+</Button>
