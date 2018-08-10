@@ -7,10 +7,12 @@ Run this `/run print((select(4, GetBuildInfo())));` in world of warcraft chat to
 # Generic Resources
 - [Lua distribution across platforms](http://luadist.org/)
 - [Lua reference 5.1](http://www.lua.org/manual/5.1/)
+- [wowwiki](http://wowwiki.wikia.com/wiki/Portal:Interface_customization)
 - [Events API](http://wowwiki.wikia.com/wiki/Events_(API))
 > Something happening in the game
 - [UI Events API](http://wowwiki.wikia.com/wiki/Widget_handlers)
 > Events from an interaction on the user interface
+- [Resource WOW Programming](http://wowprogramming.com/snippets.html)
 
 # Tutorials
 - [wow-head updated 2018 tutorial](http://fr.wowhead.com/guide=1949/wow-addon-writing-guide-part-one-how-to-make-your-first-addon)
