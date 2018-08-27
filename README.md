@@ -8,6 +8,8 @@ Run this `/run print((select(4, GetBuildInfo())));` in world of warcraft chat to
 - [Lua distribution across platforms](http://luadist.org/)
 - [Lua reference 5.1](http://www.lua.org/manual/5.1/)
 - [Events API](http://wowwiki.wikia.com/wiki/Events_(API))
+- [World Of Warcraft API](http://wowwiki.wikia.com/wiki/World_of_Warcraft_API)
+- [WOW Lua API](http://wowwiki.wikia.com/wiki/Lua_functions)
 > Something happening in the game
 - [UI Events API](http://wowwiki.wikia.com/wiki/Widget_handlers)
 > Events from an interaction on the user interface
